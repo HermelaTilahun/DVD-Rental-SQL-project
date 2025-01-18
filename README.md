@@ -7,6 +7,7 @@
 3. Delete a Rental Record: Delete a rental record from the rental table by specifying the rental ID.
 4. Increase Film Rental Duration: Update the rental duration of a specific film in the film table, increasing it by 2 days.
 5. Insert a New Film Record: Insert a new film with appropriate details (e.g., title, description, rental rate, length) into the film table.
+ ---
 ** Section 2: DQL (Data Query Language or Querying for Analysis) – 15 Questions**
 1. List All Films: Retrieve a list of all films with their titles, release year, and rental rates.
 2. Find the Most Rented Film: Write a query to find the film that has been rented the most times.
